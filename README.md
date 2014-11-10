@@ -1,6 +1,19 @@
 Advanced Python Based Common Execution Utility
 ============
+Features Supported
 
+1. Commands Parsing
+2. Commands Modify after initialized
+3. Single Commands Executing
+4. Multipy Commands Executing
+5. Commands Ordering Change
+6. Foreground commands execution
+7. Background commands execution
+8. Stdout/Stderr redirection
+9. Commands execution timeout
+10. Local Commands execution
+11. Remote Commands execution
+12. User Pre-Defined Commands
 
 "Command Module" Detail Usage
 ============
